@@ -12,9 +12,15 @@ Type "exit" to quit the chat.
 
 ✅ Example Interaction
 🤖 Hugging Face Chatbot (type 'exit' to stop)
+
 You: Hello
+
 Bot: Hi! How are you today?
+
 You: What is AI?
+
 Bot: AI is artificial intelligence, which allows machines to learn and perform tasks.
+
 You: exit
+
 Bot: Goodbye!
